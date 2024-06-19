@@ -1,0 +1,4 @@
+/bqf-api/application/config/database.php
+/cadastro-profissional/functions/db.php
+/login/functions/db.php
+/painel-agenciador/functions/db.php
